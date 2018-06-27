@@ -1,4 +1,7 @@
 # IOT-project
+
+Video demo: https://youtu.be/UQP0GKG_zJc
+
 First, when you need to use python to voice control raspberry pi,you should pip install SpeechRecognition.
 
 SpeechRecognition:https://pypi.org/project/SpeechRecognition/
